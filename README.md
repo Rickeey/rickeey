@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rickeey</h1>
+f<h1 align="center">Hi 👋, I'm Rickeey</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickeey&label=Profile%20views&color=0e75b6&style=flat" alt="rickeey" /> </p>
@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help People with [MasterFlix](https://masterflix.xyz/)
 
-- 🤝 Also [Master Hosting](https://billing.masterhosting.xyz/)
+- 🤝 Also [Master Hosting](https://masterdev.store/)
 
-- 📫 How to reach me **support@masterhosting.xyz**
+- 📫 How to reach me **support@masterdev.store**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
