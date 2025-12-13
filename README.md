@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Master Dev Centre](https://github.com/Master-dev-Centre)
 
-- 🤝 I’m looking for help People with [MasterFlix](https://masterflix.xyz/)
+- 🤝 I’m looking for help People with My Skills
 
 - 🤝 Also [Master Hosting](https://masterdev.store/)
 
