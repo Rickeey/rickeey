@@ -1,107 +1,110 @@
 <div align="center">
-    <a href="https://github.com/rickeey"><img src="https://avatars.githubusercontent.com/u/79961605?v=4" width="150px" style="border-radius:50%"></a>
-    <h1>👋 Rickeey</h1>
-    <h2>Founder | Full-Stack Developer | Infrastructure Enthusiast</h2>
+
+# 👋 Hi, I'm Rickeey
+
+### Founder • Full-Stack Developer • Infrastructure Enthusiast
+
+*Building scalable systems, modern applications, and developer-first solutions from Morocco 🇲🇦*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=rickeey&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/rickeey)
+
 </div>
 
-<p align="center">
-  <b>Building scalable systems, modern applications, and developer-first solutions from Morocco 🇲🇦</b>
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rickeey&label=Profile%20Views&color=blue&style=for-the-badge" alt="rickeey" />
-</p>
+## 🚀 About Me
+
+I'm a passionate technologist focused on building robust, scalable solutions that solve real-world problems. With expertise spanning full-stack development, DevOps, and cloud infrastructure, I transform ideas into production-ready systems.
+
+- 🏢 **Founder & Lead Developer** at [Master Dev Centre](https://github.com/Master-dev-Centre)
+- ☁️ **Founder** of [Master Hosting](https://masterdev.store/) — Delivering reliable hosting solutions
+- 💼 Specializing in **backend architecture, API design, containerization, and cloud-native applications**
+- 🤝 Open to **strategic collaborations** with talented developers on impactful projects
+- 📧 Contact: **support@masterdev.store**
 
 ---
 
-### 🚀 Professional Profile & Focus
+## 🌐 Connect With Me
 
-* **Master Dev Centre** - **Founder & Lead Developer**
-    * *Spearheading the development of robust, high-performance applications.*
-    * [View Projects](https://github.com/Master-dev-Centre)
-* **Master Hosting** - **Founder**
-    * *Providing reliable, scalable hosting infrastructure and services.*
-    * [Visit Site](https://masterdev.store/)
-* **Expertise Stack:** **Backend Systems, DevOps, API Design (REST/GraphQL), and Highly Scalable Architectures.**
-* **Collaboration:** Always open to serious, impactful collaborations with skilled developers.
+<div align="left">
 
----
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rickeuryx_48)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@masterdevcentre1)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5RPRWM9RBd)
 
-### 💡 What I'm Currently Working On
-
-> *A dedicated section to highlight active projects or skills you are mastering.*
-
-| Project/Goal | Status | Technologies | Link/Focus |
-| :--- | :--- | :--- | :--- |
-| **Project Atlas** (New SaaS) | ⚙️ In Development | Node.js, TypeScript, Docker, Kubernetes | Focusing on Microservices Architecture |
-| **CI/CD Pipeline Refinement** | 🔄 Ongoing | GitHub Actions, Nginx, Linux | Enhancing deployment speed and reliability |
-| **Learning Rust** | 📚 Skill Acquisition | Rust, Concurrency | Exploring low-level system design |
+</div>
 
 ---
 
-### 🛠️ Core Technology Stack
+## 🛠️ Tech Stack
 
-> *Showcasing your skills in a categorized, structured, and visually appealing way.*
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-| Category | Key Technologies |
-| :--- | :--- |
-| **Backend & Runtime** | Node.js, Python, TypeScript, Express.js, C++ |
-| **Databases** | MongoDB, MySQL, MariaDB, SQLite, Microsoft SQL Server, Oracle |
-| **DevOps & Infra** | **Docker**, **Nginx**, Linux, Git, CI/CD |
-| **Web Fundamentals** | HTML5, CSS3, JavaScript |
-| **Design** | Adobe Photoshop *(A great side skill for quick asset creation)* |
+### Frameworks & Runtime
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
-</p>
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
----
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📊 GitHub Activity
-
-> *Using the stats widgets but ensuring they look clean and coherent.*
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rickeey&show_icons=true&theme=default&line_height=27&hide_border=true" alt="Rickeey's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickeey&layout=compact&theme=default&hide_border=true" alt="Rickeey's Top Languages" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rickeey&theme=default&hide_border=true" alt="Rickeey's GitHub Streak" />
-</p>
+### Design
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
 
-### 🌐 Let's Connect
-
-> *Clear Call to Action is crucial. Using clean icons and direct links.*
-
-<p align="center">
-  <a href="mailto:support@masterdev.store" target="_blank">
-    <img src="https://img.shields.io/badge/Email-support@masterdev.store-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
-  <a href="https://discord.gg/5RPRWM9RBd" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Join%20Our%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://instagram.com/rickeuryx_48" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@masterdevcentre1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
+## 📊 GitHub Analytics
 
 <div align="center">
-    ---
-    <p>💻 Building. Scaling. Innovating. One commit at a time.</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rickeey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rickeey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rickeey&theme=tokyonight&hide_border=true)](https://github.com/rickeey)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rickeey&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/rickeey)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 *"Building the future, one commit at a time"*
+
+**⭐ Star my repositories if you find them useful!**
+
+![Snake animation](https://github.com/rickeey/rickeey/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+*Last updated: December 2025*
+
 </div>
