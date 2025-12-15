@@ -89,8 +89,6 @@ I'm a passionate technologist focused on building robust, scalable solutions tha
 
 **⭐ Star my repositories if you find them useful!**
 
-![Snake animation](https://github.com/rickeey/rickeey/blob/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 *Last updated: December 2025*
