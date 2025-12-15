@@ -83,16 +83,6 @@ I'm a passionate technologist focused on building robust, scalable solutions tha
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rickeey&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/rickeey)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💻 *"Building the future, one commit at a time"*
