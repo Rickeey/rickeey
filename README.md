@@ -72,7 +72,7 @@ I'm a passionate technologist focused on building robust, scalable solutions tha
 
 <div align="center">
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rickeey&theme=github_dark
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rickeey&theme=github_dark" alt="Profile details badge"/>
 </div>
 
 <div align="center">
