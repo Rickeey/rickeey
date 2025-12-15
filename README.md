@@ -17,9 +17,8 @@
 I'm a passionate technologist focused on building robust, scalable solutions that solve real-world problems. With expertise spanning full-stack development, DevOps, and cloud infrastructure, I transform ideas into production-ready systems.
 
 - 🏢 **Founder & Lead Developer** at [Master Dev Centre](https://github.com/Master-dev-Centre)
-- ☁️ **Founder** of [Master Hosting](https://masterdev.store/) — Delivering reliable hosting solutions
+- ☁️ **Founder** of [Master Store](https://masterdev.store/) — Delivering reliable hosting solutions
 - 💼 Specializing in **backend architecture, API design, containerization, and cloud-native applications**
-- 🤝 Open to **strategic collaborations** with talented developers on impactful projects
 - 📧 Contact: **support@masterdev.store**
 
 ---
