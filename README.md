@@ -72,9 +72,7 @@ I'm a passionate technologist focused on building robust, scalable solutions tha
 
 <div align="center">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=rickeey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rickeey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rickeey&theme=2077)
-
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rickeey&theme=github_dark
 </div>
 
 <div align="center">
